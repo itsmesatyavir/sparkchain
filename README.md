@@ -61,7 +61,7 @@ python main.py
 or
 
 ```bash
-bot.py
+python bot.py
 ```
 
 ## 📋 Libraries Used
