@@ -58,6 +58,11 @@ nano proxy.txt
 ```bash
 python main.py
 ```
+or
+
+```bash
+bot.py
+```
 
 ## 📋 Libraries Used
 
